@@ -17,3 +17,8 @@ laboratório de azure da DIO
 * Benefícios da Nuvem Azure - Revisão
 * Questionário: Benefícios da Nuvem
 
+## Tipos de Serviço de Nuvem na Azure
+
+* IaaS, PaaS e SaaS na Azure
+* Modelo de Responsabilidade Compartilhada
+* Tipos de Serviço de Nuvem - Revisão
